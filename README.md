@@ -10,7 +10,7 @@ Write an index.php file with a standard HTML file inside of it
 
 Pick your favorite movie and put the title, release year, gross revenue, and a poster picture URL as query params at the end of your URL
 
-<ol> Use $_GET and echo out the following
+<ol>Use $_GET and echo out the following
   <li>The title inside of a heading tag</li>
   <li>The year released inside of a tag</li>
   <li>The gross revenue inside of a tag</li>
